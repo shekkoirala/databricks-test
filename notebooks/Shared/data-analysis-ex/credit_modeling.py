@@ -422,3 +422,7 @@ plt.show()
 
 # COMMAND ----------
 
+print("hello")
+
+# COMMAND ----------
+
